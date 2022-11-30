@@ -39,6 +39,7 @@ body {
 .form .search {
     position: absolute;
     top: 33%;
+    left: 17%;
     border: none;
     background-color: rgb(221, 217, 217);
     color: rgb(107, 106, 106);
